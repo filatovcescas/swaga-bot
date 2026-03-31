@@ -65,7 +65,7 @@ from PIL import Image, ImageDraw, ImageFont
 #    этот код сам рисует стикмена поверх реального фона.
 # ============================================================
 
-BOT_TOKEN = "YOUR_TOKEN"
+BOT_TOKEN = "8796715784:AAGoPXua2dm8KwvdsI_Qh28Uf-ZH9gMqbDo"
 DB_PATH = "swaga.db"
 ADMIN_IDS = {8039924340}
 
